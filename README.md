@@ -2,6 +2,8 @@ cs and stats student. passionate about data engineering, backend dev, and learni
 
 stolen quote: Life must be understood backward. But it must be lived forward
 
-![ai generated image to complement stolen quote:](https://imgur.com/a/uxVizob)
+<p align="center">
+  <img src="https://i.imgur.com/uxVizob.png" alt="AI generated image to complement quote" width="400">
+</p>
 
 fun fact:
