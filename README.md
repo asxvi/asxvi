@@ -1,6 +1,6 @@
 cs and stats student
 
-passionate about data engineering, data systems, backend dev, and learning about stuff i dont know about
+passionate about data engineering, systems, ai, and learning new things
 
 stolen quote: life must be understood backward. but it must be lived forward
 
